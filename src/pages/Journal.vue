@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+          An insight into my process...
         </h1>
       </div>
     </div>
